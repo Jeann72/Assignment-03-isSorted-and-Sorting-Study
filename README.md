@@ -32,7 +32,7 @@ Random data in equal halves= O(n log (n))
 +Worst Case
 None observed, but it still does the same as before even if reversed =  O(n^2)
 
-Selection Sort
+# Selection Sort
 +Best Case
 data sorted, still has to scan every unsorted element to find the min. =O(n^2)
 

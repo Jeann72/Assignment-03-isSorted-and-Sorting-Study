@@ -1,5 +1,7 @@
 # Assignment-03-isSorted-and-Sorting-Study
 
+Build a small C++17 sorting test bench based on the sorting work used in prior CS 210 assignments.
+
 # Bubble Sort
 +Best Case
 Single pass, no swaps, and stops :=O(n)
